@@ -1,6 +1,6 @@
-PESU WEBTECH PROJECT BY VIVEK R AND VISHNU BM
+# PESU WEBTECH PROJECT BY VIVEK R AND VISHNU BM
 
-HOTEL BOOKING
+# HOTEL BOOKING
 
 It is a front-end and back-end for a simple hotel booking site. The site is developed using HTML/CSS, Javascript, MERN, ajax and jquery plugins are used to provide extra features. There are total 6 webpages of the website.
 
