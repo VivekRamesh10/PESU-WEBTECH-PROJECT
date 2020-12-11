@@ -1,0 +1,27 @@
+HOW TO RUN WEBTECH PROJECT
+
+C:\Users\Vivek Ramesh> "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
+
+C:\Users\Vivek Ramesh\Desktop\hotel-master\backend> node server/server.js
+
+C:\Users\Vivek Ramesh\Desktop\hotel-master\backend\public> http-server (download in cmd by > npm install http-server -g)
+
+
+
+Instructions :
+
+1. Clone repo and go to folder
+2. Go to root directory i.e. Mongo-Booking from terminal, run npm install to install all the node_modules
+3. then , run node server/server.js
+
+-Used Mongodb, Nodejs, express, bootstrap, Operating System: Windows10
+
+-Steps to install mongodb on window: https://docs.mongodb.com/manual/tutorial/install-mongodb-on-windows-x/
+
+Make sure to update the following variable in Mongo-Booking/server/server.js file
+
+	var rootDir = '/Users/name/Desktop/Mongo-Booking/';
+
+
+
+Finally after running all 3 commands on 3 seprate cmd's open browser and run localhost:8080
