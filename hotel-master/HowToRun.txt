@@ -1,4 +1,6 @@
-HOW TO RUN WEBTECH PROJECT
+# HOW TO RUN WEBTECH PROJECT
+
+Have to run npm install to download node modules. Then save it inside your backend folder. Then run npm install http-server -g
 
 C:\Users\Vivek Ramesh> "C:\Program Files\MongoDB\Server\4.4\bin\mongo.exe"
 
@@ -8,7 +10,7 @@ C:\Users\Vivek Ramesh\Desktop\hotel-master\backend\public> http-server (download
 
 
 
-Instructions :
+# Instructions :
 
 1. Clone repo and go to folder
 2. Go to root directory i.e. Mongo-Booking from terminal, run npm install to install all the node_modules
