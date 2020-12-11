@@ -8,7 +8,7 @@ C:\Users\Vivek Ramesh\Desktop\hotel-master\backend> node server/server.js
 
 C:\Users\Vivek Ramesh\Desktop\hotel-master\backend\public> http-server (download in cmd by > npm install http-server -g)
 
-
+Follow the exact equivalent path provided for the commands or else error might occur. 
 
 # Instructions :
 
